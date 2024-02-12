@@ -1,0 +1,20 @@
+{
+  "name": "node-grpc-curd",
+  "version": "1.0.0",
+  "description": "CURD with gRPC and Node",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "local": "node client/index.js"
+  },
+  "author": "Prasanna Kumar Nath",
+  "license": "ISC",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.10.0",
+    "@grpc/proto-loader": "^0.7.10",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "hbs": "^4.2.0",
+    "uuid": "^9.0.1"
+  }
+}
