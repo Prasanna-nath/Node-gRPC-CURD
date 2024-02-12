@@ -5,7 +5,7 @@
 
 <ul>
     <li>It is a backend project. (using Node js)</li>
-    <li>It is a CURD api using dRPC.</li>
+    <li>It is a CURD api using gRPC.</li>
 </ul>
 <br>
 <b>Author</b>: Prasanna Kumar Nath
